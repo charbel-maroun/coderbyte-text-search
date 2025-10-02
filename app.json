@@ -28,6 +28,9 @@
     },
     "experiments": {
       "baseUrl": "/coderbyte-text-search"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
