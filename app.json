@@ -23,7 +23,11 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
+      "output": "static",
       "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "baseUrl": "/coderbyte-text-search"
     }
   }
 }
