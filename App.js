@@ -121,5 +121,4 @@ const styles = StyleSheet.create({
     marginTop: 30,
   },
   highlight: { backgroundColor: "yellow", fontWeight: "bold" },
-
 });
